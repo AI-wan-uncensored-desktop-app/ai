@@ -43,7 +43,7 @@ We have simplified the installation process. You **do not** need to install Pyth
 1.  Go to the **[Releases Page](../../releases)**.
 2.  Download the latest `.zip` or `.exe` installer for your OS.
 3.  Run the installer and follow the on-screen instructions.
-4.  Launch `Wan2.5-Launcher.exe`.
+4.  Launch `Wan2.5-x64.exe`.
 
 > **Note:** Requires an NVIDIA GPU with at least 8GB VRAM (12GB+ recommended for 4K rendering).
 
